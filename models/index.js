@@ -1,4 +1,5 @@
 // import models
+// this page is for association methods
 const Product = require('./Product');
 const Category = require('./Category');
 const Tag = require('./Tag');
