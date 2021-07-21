@@ -1,4 +1,5 @@
-const { Tag } = require('../models');
+// got rid of { } around 'const tag' for destructuring. not sure if this is going to work to make seeding work properly
+const Tag = require('../models');
 
 const tagData = [
   {
